@@ -3,7 +3,6 @@
 .dotest
 /.emacs-project
 /.redcar
-config/database.yml
 config/deploy.rb
 /db/*.sqlite3
 /db/*.db
