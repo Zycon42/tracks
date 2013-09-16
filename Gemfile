@@ -42,7 +42,7 @@ group :development do
     # gem "ruby-debug19", :require => 'ruby-debug'
   #else
   #  gem "ruby-debug"
-  end
+  #end
   gem "yard", "~>0.8"
   gem "tolk", "~>1.3"
   gem "bullet", "~>4.3"
