@@ -38,10 +38,10 @@ gem 'jquery-rails', "~>2.1"
 gem 'bcrypt-ruby', "~>3.0"
 
 group :development do
-  if RUBY_VERSION.to_f >= 1.9
+  #if RUBY_VERSION.to_f >= 1.9
     # gem "ruby-debug19", :require => 'ruby-debug'
-  else
-    gem "ruby-debug"
+  #else
+  #  gem "ruby-debug"
   end
   gem "yard", "~>0.8"
   gem "tolk", "~>1.3"
